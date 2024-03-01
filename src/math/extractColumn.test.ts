@@ -1,4 +1,4 @@
-import { extractColumn } from "./extract-column";
+import { extractColumn } from "./extractColumn";
 
 test(`Extract column should correctly extract data from matrix`, () => {
   const testData = [
