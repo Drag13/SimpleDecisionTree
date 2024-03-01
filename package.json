@@ -4,9 +4,19 @@
   "description": "Example of the Decision Tree Algorithm with TypeScript",
   "main": "src/index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
-  "keywords": ["decision tree classifier", "TypeScript"],
+  "keywords": [
+    "decision tree classifier",
+    "TypeScript"
+  ],
   "author": "drag13",
-  "license": "GPL-3.0-only"
+  "license": "GPL-3.0-only",
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.3.3"
+  }
 }
