@@ -1,0 +1,12 @@
+{
+  "name": "simple-decision-tree",
+  "version": "0.1.0",
+  "description": "Example of the Decision Tree Algorithm with TypeScript",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["decision tree classifier", "TypeScript"],
+  "author": "drag13",
+  "license": "GPL-3.0-only"
+}
