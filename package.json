@@ -4,7 +4,7 @@
   "description": "Example of the Decision Tree Algorithm with TypeScript",
   "main": "src/index.ts",
   "scripts": {
-    "test": "jest",
+    "test": "jest --coverage",
     "test:w": "jest --watch"
   },
   "keywords": [
